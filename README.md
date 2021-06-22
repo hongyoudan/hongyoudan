@@ -1,4 +1,4 @@
-## 我是 摘星人 / HAYDEN / 绿茶哥哥 / 小洪不哄
+## 我是 摘星人 / HAYDEN / 绿茶哥哥 / 小洪不哄 👍
 
 - 🐧 在校生，一位技术宅
 - 🏡 作品：<a href="https://github.com/hongyoudan/HydAndroid" target="_blank">Android应用项目</a>
