@@ -8,7 +8,7 @@
 
 <img align='right' src="https://profile-counter.glitch.me/hongyoudan/count.svg" alt="访客数量"/>
 
-- 🐧 在校生，一位技术宅
+- 🐧 在校生，一位高冷无情的技术宅
 - 🏡 作品：<a href="https://github.com/hongyoudan/HydAndroid" target="_blank">Android应用项目</a>
 - 💬 手机 / QQ / 微信：15160760810
 
