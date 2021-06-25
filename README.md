@@ -10,7 +10,7 @@
 
 - 🐧 在校生，一位高冷无情的技术宅
 - 🏡 作品：<a href="https://github.com/hongyoudan/HydAndroid" target="_blank">Android应用项目</a>&nbsp;&nbsp;&nbsp;&nbsp; *<u>更多作品</u>*脱发整理中😭
-- 💬 手机 / QQ / 微信：15160760810
+- 💬 微信：H2422736288
 
 - 😄**后&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  Java，PHP
 - 😃**前&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  HTML，CSS，JavaScript
