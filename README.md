@@ -2,7 +2,7 @@
 <h4 align="center">摘星人 / HAYDEN / 绿茶哥哥 / 小洪不哄</h4>
 <p align="center">
   <a href="https://github.com/hongyoudan"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
-  <a href="https://gitee.com/hongyoudan"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
+  <a href="https://gitee.com/hong-youdan"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
   <a href="https://blog.csdn.net/qq_2422376288"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
