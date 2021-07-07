@@ -12,12 +12,12 @@
 - 🏡 作品：<a href="#" target="_blank">Android应用项目（正在维护）</a>&nbsp;&nbsp;&nbsp;&nbsp; *<u>更多作品</u>*脱发整理中😭
 - 💬 微信：H2422736288
 
-- 😄**后&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  Java，PHP
-- 😃**前&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  HTML，CSS，JavaScript
-- 🧐**移动端**&nbsp;  微信小程序，Android
-- 😆**数据库**&nbsp;  MySQL
-- 😝**框&nbsp;&nbsp;&nbsp;&nbsp;架**&nbsp;  SpringBoot，ThinkPHP，Layui，Element
-- 😛**设&nbsp;&nbsp;&nbsp;&nbsp;计**&nbsp;  Illustrator，Photoshop，Audition，Premiere，
-- 😧**都不精通**
+- 😄  **后&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  Java，PHP
+- 😃  **前&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  HTML，CSS，JavaScript
+- 🧐  **移动端**&nbsp;  微信小程序，Android
+- 😆  **数据库**&nbsp;  MySQL
+- 😝  **框&nbsp;&nbsp;&nbsp;&nbsp;架**&nbsp;  SpringBoot，ThinkPHP，Layui，Element
+- 😛  **设&nbsp;&nbsp;&nbsp;&nbsp;计**&nbsp;  Illustrator，Photoshop，Audition，Premiere，
+- 😧  **都不精通**
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=hongyoudan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyoudan&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
