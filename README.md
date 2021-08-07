@@ -8,7 +8,7 @@
 
 <img align='right' src="https://profile-counter.glitch.me/hongyoudan/count.svg" alt="访客数量"/>
 
-- 🐧 在校生，一位高冷无情的技术宅
+- 🐧 一位高冷无情的编码爱好者
 - 🏡 作品：<a href="#" target="_blank">Android应用项目（正在维护）</a>&nbsp;&nbsp;&nbsp;&nbsp; *<u>更多作品</u>*脱发整理中😭
 - 💬 微信：H2422736288
 
