@@ -12,7 +12,7 @@
 - 🏡 作品：<a href="#" target="_blank">Android应用项目（正在维护）</a>&nbsp;&nbsp;&nbsp;&nbsp; *<u>更多作品</u>*脱发整理中😭
 - 💬 微信：H2422736288
 
-- 😄  **后&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  Java，PHP
+- 😄  **后&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  Java，Kotlin，PHP
 - 😃  **前&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  HTML，CSS，JavaScript
 - 🧐  **移动端**&nbsp;  微信小程序，Android
 - 😆  **数据库**&nbsp;  MySQL
