@@ -10,15 +10,33 @@
 <img align='right' src="https://profile-counter.glitch.me/hongyoudan/count.svg" alt="访客数量"/>
 
 - 🐧 一位高冷无情的编码爱好者
-- 🏡 作品：<a href="https://github.com/hongyoudan/MinlifeApp" target="_blank">基于ThinkPHP的Android移动应用开发</a><a href="#" target="_blank">Android应用项目（正在维护...）</a> <a href="#" target="_blank">SpringBoot项目（正在维护...）</a>&nbsp;&nbsp;&nbsp;&nbsp; *<u>更多作品</u>*脱发整理中😭
+
+- 🏡 作品：
+
+  | <a href="https://github.com/hongyoudan/MinlifeApp" target="_blank">基于ThinkPHP的Android移动应用开发</a> |
+  | ------------------------------------------------------------ |
+  |                                                              |
+  |                                                              |
+  |                                                              |
+
+  
+
+- <a href="https://github.com/hongyoudan/MinlifeApp" target="_blank">基于ThinkPHP的Android移动应用开发</a><a href="#" target="_blank">Android应用项目（正在维护...）</a> <a href="#" target="_blank">SpringBoot项目（正在维护...）</a>&nbsp;&nbsp;&nbsp;&nbsp; *<u>更多作品</u>*脱发整理中😭
+
 - 💬 微信：H2422736288
 
 - 😄  **后&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  Java，Kotlin，PHP
+
 - 😃  **前&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  HTML，CSS，JavaScript
+
 - 🧐  **移动端**&nbsp;  微信小程序，Android
+
 - 😆  **数据库**&nbsp;  MySQL
+
 - 😝  **框&nbsp;&nbsp;&nbsp;&nbsp;架**&nbsp;  SpringBoot，ThinkPHP，Layui，Element
+
 - 😛  **设&nbsp;&nbsp;&nbsp;&nbsp;计**&nbsp;  Illustrator，Photoshop，Audition，Premiere，
+
 - 😧  **都不精通**
 <p algin="left">
 <img src="https://github-readme-stats.vercel.app/api?username=hongyoudan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
