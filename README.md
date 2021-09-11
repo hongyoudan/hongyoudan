@@ -13,15 +13,12 @@
 
 - 🏡 作品：
 
-  | <a href="https://github.com/hongyoudan/MinlifeApp" target="_blank">基于ThinkPHP的Android移动应用开发</a> |
-  | ------------------------------------------------------------ |
-  |                                                              |
-  |                                                              |
-  |                                                              |
-
-  
-
-- <a href="https://github.com/hongyoudan/MinlifeApp" target="_blank">基于ThinkPHP的Android移动应用开发</a><a href="#" target="_blank">Android应用项目（正在维护...）</a> <a href="#" target="_blank">SpringBoot项目（正在维护...）</a>&nbsp;&nbsp;&nbsp;&nbsp; *<u>更多作品</u>*脱发整理中😭
+  | 类别               | 项目                                                         |
+  | ------------------ | ------------------------------------------------------------ |
+  | Android应用项目    | <a href="https://github.com/hongyoudan/MinlifeApp" target="_blank">基于ThinkPHP的Android移动应用开发</a><br><a href="#" target="_blank">正在维护...</a> |
+  | Spring Boot项目    | <a href="#" target="_blank">正在维护...</a>                  |
+  | 微信小程序项目     | <a href="#" target="_blank">正在维护...</a>                  |
+  | 更多作品脱发整理中 |                                                              |
 
 - 💬 微信：H2422736288
 
