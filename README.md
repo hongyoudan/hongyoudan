@@ -30,12 +30,13 @@
 
 - 😆  **数据库**&nbsp;  MySQL
 
-- 😝  **框&nbsp;&nbsp;&nbsp;&nbsp;架**&nbsp;  SpringBoot，ThinkPHP，Layui，Element
+- 😝  **框&nbsp;&nbsp;&nbsp;&nbsp;架**&nbsp;  SpringBoot，ThinkPHP，Layui，ElementUI
 
 - 😛  **设&nbsp;&nbsp;&nbsp;&nbsp;计**&nbsp;  Illustrator，Photoshop，Audition，Premiere，
 
 - 😧  **都不精通**
-<p algin="left">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=hongyoudan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongyoudan&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</p>
+</div>
+
