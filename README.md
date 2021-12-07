@@ -15,14 +15,14 @@
 
   | 类别               | 项目                                                         |
   | ------------------ | ------------------------------------------------------------ |
-  | Android应用项目    | [基于ThinkPHP的Android移动应用开发](https://github.com/hongyoudan/MinlifeApp)<br>[正在维护...]() |
-  | Spring Boot项目    | [《软件测试》课程实验程序源码](https://github.com/hongyoudan/softwaretesting)<br>[MyBatis Generator代码自动生成器](https://github.com/hongyoudan/mybatis-generator-demo)<br>[正在维护...]() |
+  | Android应用项目    | 1.[基于ThinkPHP的校园APP开发](https://github.com/hongyoudan/MinlifeApp)<br>2.[花卉APP](https://github.com/hongyoudan/huahui)<br/>3.[RecyclerViewDemo](https://github.com/hongyoudan/RecyclerViewDemo)<br/>4.[BannerDemo](https://github.com/hongyoudan/BannerDemo)<br/>5.[SQLiteDemo](https://github.com/hongyoudan/SQLiteDemo)<br/>[正在维护...]() |
+  | Spring Boot项目    | 1.[《软件测试》课程实验程序源码](https://github.com/hongyoudan/softwaretesting)<br>2.[MyBatis Generator代码自动生成器](https://github.com/hongyoudan/mybatis-generator-demo)<br>[正在维护...]() |
   | 微信小程序项目     | [正在维护...]()                                              |
   | 更多作品脱发整理中 |                                                              |
 
 - 💬 微信：H2422736288
 
-- 😄  **后&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  Java，Kotlin，PHP
+- 😄  **后&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  Java，PHP，Kotlin
 
 - 😃  **前&nbsp;&nbsp;&nbsp;&nbsp;端**&nbsp;  HTML，CSS，JavaScript
 
