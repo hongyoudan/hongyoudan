@@ -29,7 +29,7 @@
 
 - 🧐  **移动端**&nbsp;  微信小程序，Android
 
-- 😆  **数据库**&nbsp;  MySQL
+- 😆  **数据库**&nbsp;  MySQL，Redis
 
 - 😝  **框&nbsp;&nbsp;&nbsp;&nbsp;架**&nbsp;  SpringBoot，ThinkPHP，Layui，ElementUI
 
