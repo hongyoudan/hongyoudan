@@ -20,7 +20,7 @@
 
 😃  **前&nbsp;&nbsp;&nbsp;&nbsp;端**   Vue.js，HTML，CSS，JavaScript
 
-😎  **运&nbsp;&nbsp;&nbsp;&nbsp;维**  CentOS， Tomcat，Docker，Nginx
+😎  **运&nbsp;&nbsp;&nbsp;&nbsp;维**  CentOS，Tomcat，Docker，Nginx
 
 😬  **消息队列**  RabbitMQ
 
