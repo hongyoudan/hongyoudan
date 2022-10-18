@@ -43,7 +43,7 @@
 
 | 类别               | 项目                                                         |
 | :----------------- | :----------------------------------------------------------- |
-| Android应用项目    | 1.[基于ThinkPHP的校园APP开发](https://github.com/hongyoudan/MinlifeApp)<br>2.[花卉APP](https://github.com/hongyoudan/huahui)<br/>3.[RecyclerView示例](https://github.com/hongyoudan/RecyclerViewDemo)<br/>4.[Banner示例](https://github.com/hongyoudan/BannerDemo)<br/>5.[SQLite示例](https://github.com/hongyoudan/SQLiteDemo)<br/>[正在维护...]() |
+| Android应用项目    | 1.[基于ThinkPHP的校园APP开发](https://github.com/hongyoudan/MinlifeApp)<br>2.[FloAPP](https://github.com/hongyoudan/huahui)<br/>3.[RecyclerView示例](https://github.com/hongyoudan/RecyclerViewDemo)<br/>4.[Banner示例](https://github.com/hongyoudan/BannerDemo)<br/>5.[SQLite示例](https://github.com/hongyoudan/SQLiteDemo)<br/>[正在维护...]() |
 | SpringBoot项目     | 1.[《软件测试》课程实验程序源码](https://github.com/hongyoudan/softwaretesting)<br>2.[MyBatis Generator代码自动生成器](https://github.com/hongyoudan/mybatis-generator-demo)<br>3.[基于SpringBoot的校园餐饮微信小程序的设计与实现](https://github.com/hongyoudan/minlife-2)<br/>4.[闽生活校园服务平台(正在搭建中...)](https://github.com/hongyoudan/minlife-3)<br/>[正在维护...]() |
 | PHP项目            | 1.[PHP原生操作数据库，实现CRUD/模糊搜索](https://github.com/hongyoudan/mall-protogenous)<br>2.[使用ThinkPHP/Vue，实现CRUD](https://github.com/hongyoudan/mall-tp)<br>[正在维护...]() |
 | 微信小程序项目     | 1.[基于SpringBoot的校园餐饮微信小程序的设计与实现](https://github.com/hongyoudan/minlife-2)<br/>[正在维护...]() |
